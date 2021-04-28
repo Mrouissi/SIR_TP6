@@ -2,7 +2,7 @@
 
 ## Groupe
 - Théo Lévêque
-- Mariem Roussi
+- Mariem Rouissi
 
 ## Tester l'application
 Ouvrir canvas.html dans un navigateur pour tester.
